@@ -30,7 +30,7 @@ public class TerabeutyAddToCart {
 	
 	
 	public void Search() {
-		this.Search.sendKeys(products,Keys.ENTER);
+//		this.Search.sendKeys(products,Keys.ENTER);
 	}
 	public void product(String productname) {
 		for (WebElement product : products) {

@@ -12,8 +12,8 @@ public class Terabeuty {
 		w.get("https://www.tirabeauty.com/?srsltid=AfmBOopqBneRa8jpvMRO9v-1L9K4ZujUy6aX_es3-XLdG0-Acysf1MuQ");
 		TerabeutyAddToCart repo=new TerabeutyAddToCart(w);
 		
-		repo.Search("Citaphil");
-		Thread.sleep(3000);
+//		repo.Search("Citaphil");
+//		Thread.sleep(3000);
 		repo.product("");
 		String main =w.getWindowHandle();
 		Set<String> mainandChild = w.getWindowHandles();
@@ -23,7 +23,7 @@ public class Terabeuty {
 				
 			}
 		}
-		Thread.sleep(3000);
+//		Thread.sleep(3000);
 		repo.addtobag();
 				
 				
