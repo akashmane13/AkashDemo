@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-03-08T17:13:34 IST" name="Default suite" finished-at="2026-03-08T17:14:27 IST" duration-ms="53298">
+    <groups>
+    </groups>
+    <test started-at="2026-03-08T17:13:34 IST" name="Default test" finished-at="2026-03-08T17:14:27 IST" duration-ms="53298">
+      <class name="com.testNgFramework.Ebay">
+        <test-method is-config="true" signature="lanchAndNavigateToEbaySite()[pri:0, instance:com.testNgFramework.Ebay@515c6049]" started-at="2026-03-08T17:13:34 IST" name="lanchAndNavigateToEbaySite" finished-at="2026-03-08T17:13:40 IST" duration-ms="6371" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchAndNavigateToEbaySite -->
+        <test-method signature="searchAnProduct(java.lang.String,java.lang.String)[pri:0, instance:com.testNgFramework.Ebay@515c6049]" started-at="2026-03-08T17:13:40 IST" name="searchAnProduct" data-provider="My Wishlist" finished-at="2026-03-08T17:13:47 IST" duration-ms="6804" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mobile]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Mobile for sale | eBay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAnProduct -->
+        <test-method is-config="true" signature="CloseAnBrowser()[pri:0, instance:com.testNgFramework.Ebay@515c6049]" started-at="2026-03-08T17:13:47 IST" name="CloseAnBrowser" finished-at="2026-03-08T17:13:49 IST" duration-ms="2210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseAnBrowser -->
+        <test-method is-config="true" signature="lanchAndNavigateToEbaySite()[pri:0, instance:com.testNgFramework.Ebay@515c6049]" started-at="2026-03-08T17:13:49 IST" name="lanchAndNavigateToEbaySite" finished-at="2026-03-08T17:13:54 IST" duration-ms="5181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchAndNavigateToEbaySite -->
+        <test-method signature="searchAnProduct(java.lang.String,java.lang.String)[pri:0, instance:com.testNgFramework.Ebay@515c6049]" started-at="2026-03-08T17:13:54 IST" name="searchAnProduct" data-provider="My Wishlist" finished-at="2026-03-08T17:14:00 IST" duration-ms="5693" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Projector]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Projector for sale | eBay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAnProduct -->
+        <test-method is-config="true" signature="CloseAnBrowser()[pri:0, instance:com.testNgFramework.Ebay@515c6049]" started-at="2026-03-08T17:14:00 IST" name="CloseAnBrowser" finished-at="2026-03-08T17:14:02 IST" duration-ms="2215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseAnBrowser -->
+        <test-method is-config="true" signature="lanchAndNavigateToEbaySite()[pri:0, instance:com.testNgFramework.Ebay@515c6049]" started-at="2026-03-08T17:14:02 IST" name="lanchAndNavigateToEbaySite" finished-at="2026-03-08T17:14:07 IST" duration-ms="4259" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchAndNavigateToEbaySite -->
+        <test-method signature="searchAnProduct(java.lang.String,java.lang.String)[pri:0, instance:com.testNgFramework.Ebay@515c6049]" started-at="2026-03-08T17:14:07 IST" name="searchAnProduct" data-provider="My Wishlist" finished-at="2026-03-08T17:14:12 IST" duration-ms="5841" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Home Theater]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Home Theater for sale | eBay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAnProduct -->
+        <test-method is-config="true" signature="CloseAnBrowser()[pri:0, instance:com.testNgFramework.Ebay@515c6049]" started-at="2026-03-08T17:14:12 IST" name="CloseAnBrowser" finished-at="2026-03-08T17:14:15 IST" duration-ms="2193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseAnBrowser -->
+        <test-method is-config="true" signature="lanchAndNavigateToEbaySite()[pri:0, instance:com.testNgFramework.Ebay@515c6049]" started-at="2026-03-08T17:14:15 IST" name="lanchAndNavigateToEbaySite" finished-at="2026-03-08T17:14:19 IST" duration-ms="4209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lanchAndNavigateToEbaySite -->
+        <test-method signature="searchAnProduct(java.lang.String,java.lang.String)[pri:0, instance:com.testNgFramework.Ebay@515c6049]" started-at="2026-03-08T17:14:19 IST" name="searchAnProduct" data-provider="My Wishlist" finished-at="2026-03-08T17:14:25 IST" duration-ms="6033" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bulb]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Bulb for sale | eBay]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchAnProduct -->
+        <test-method is-config="true" signature="CloseAnBrowser()[pri:0, instance:com.testNgFramework.Ebay@515c6049]" started-at="2026-03-08T17:14:25 IST" name="CloseAnBrowser" finished-at="2026-03-08T17:14:27 IST" duration-ms="2249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloseAnBrowser -->
+      </class> <!-- com.testNgFramework.Ebay -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
